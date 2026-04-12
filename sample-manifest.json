@@ -1,0 +1,12 @@
+{
+  "export_job_id": "3771afd3-64ff-47ef-97de-f2b2d92516cf",
+  "id_short": 398664,
+  "published_at": "2026-04-12T07:23:59Z",
+  "repo_name": "all-restaurants-in-port-st-lucie-metro-florida-us-sample-398664",
+  "sample_asset_name": "beamstation_398664_restaurants-us-portstluciefl_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/398664/beamstation_398664_restaurants-us-portstluciefl_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "a9784c0dbc1b329440bc79d05557c20aa49c4da50da829bae88ed69727131c68",
+  "sample_size_bytes": 118859,
+  "total_records": 868
+}
