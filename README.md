@@ -1,6 +1,6 @@
 # All Restaurants in Port St. Lucie (Metro), Florida, US
 
-> Free BeamStation sample export with 103 rows and masked direct-contact fields.
+> Free BeamStation sample export with 110 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `398664` |
 | Location | Port St. Lucie, FL |
 | Category | Restaurants |
-| Full dataset size | 1,035 records |
-| Free sample size | 103 records (9.95%) |
-| Last export | 2026-04-28T16:40:11.613106+00:00 |
+| Full dataset size | 1,101 records |
+| Free sample size | 110 records (9.99%) |
+| Last export | 2026-05-06T15:49:38.915741+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-port-st-lucie-metro-florida-us-sample-398664/releases/download/sample-latest/beamstation_398664_restaurants-us-portstluciefl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
